@@ -1,0 +1,50 @@
+day decsiption
+
+
+
+
+
+
+
+
+
+
+
+13  string inbit function
+14  condition statsemets
+15  exampal
+16  match function c in switch case
+17  for loop
+18  while loop
+19  break and conntuni  control statsemets
+20  udf function
+21  function argument type
+22  list  and same of array
+23  list mathod  function 
+24  Tuples   # no change 
+25  tuples function and mathod
+26  exampal
+27  exampal
+28  f string
+29  Doc string and PEP 8
+30  Recursion  fibro baki
+31  sets in python
+32  union and intersection 
+33  decsionri  index and value storge 
+34  mathod of Dictionary
+35  for loop and else statsemets
+36  error Handing try Uers
+37  finally ecxtion part
+38  User Defind error
+39  ans for kbc
+40  dicode sikret code
+41  one line if code 
+42  enum data type
+43  Virtual Environment  #pip freeze    aveleble modul list
+44  type of import
+45  function import krvathi te biji vadhat run no hay te mate
+46  import os in create a foldters and file
+47  dicode      40
+48  local and global varaible
+49  
+50  
